@@ -24,7 +24,6 @@ html {
     
 }
 
-
 header {
 
 
@@ -266,6 +265,7 @@ header {
 
 }
 
+
 .text h1{
 
 color: darkblue;
@@ -445,6 +445,7 @@ top: 0;
 
     text-align: center;
     color: lightgreen;
+    text-transform: uppercase;
     font-size: 24px ;
     font-style: italic;
     top: -100%;
@@ -627,11 +628,13 @@ background-position: center;
     font-size: 44px;
     color: purple;
   
+  
 }    
 
 .stars{
 
     font-size: 27px;
+    padding: 10px;
     color: rgb(164, 81, 81);
     
 }
@@ -639,6 +642,7 @@ background-position: center;
 .review p{
 
     font-size: 27px;
+    padding: 15px;
     color: rgb(5, 95, 19);
     
 }
