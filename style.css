@@ -38,6 +38,11 @@ header {
 
 }
 
+body{
+
+    overflow-x: hidden;
+}
+
 .box{
       
       
@@ -435,9 +440,7 @@ top: 0;
 
     text-align: center;
     color: lawngreen;
-    top: -100%;
-    left: 0;
-  
+
 }
 
 
@@ -448,9 +451,7 @@ top: 0;
     text-transform: uppercase;
     font-size: 24px ;
     font-style: italic;
-    top: -100%;
-    left: 0;
-    
+
 }
 
 
